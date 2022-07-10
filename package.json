@@ -1,0 +1,13 @@
+{
+  "name": "rollup-build-spike",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Andrés Quilodrán",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "devDependencies": {
+    "rollup": "^2.72.1"
+  }
+}
